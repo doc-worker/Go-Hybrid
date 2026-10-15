@@ -9,3 +9,4 @@
 - Remaining open PRs (14, triaged queue for next session): #8 (bounty corpus, standing triage), #22 (select default arms), #63 (fuzz exits), #64 (runner hard-setup stop), #65 (installer checksum), #67 (issue #66 option/match/type-alias), #68/#70 (diagnostics wording), #71 (job dispatch arity), #76 (macOS staticlib), #84 (loan-escape O2/O3 returns), #85 (runner SHA mismatch), #88 (issue #87 multi-unpack aliases), #90 (issue #69 jsonbinding unescape)
 - Standing work: the 14-PR queue above (repro-verify → port-or-close with credit, the same conveyor discipline) · community replies as they arrive · release republish when the conveyor quiets down
 - Last review gate: G3 PASSED 2026-10-13; community review is a standing input to the queue
+- Contributor patch: Kaggle fetch aborts on download failure before publishing cached summaries; offline Python tools 22/22 + installer 8/8. Pinned compiler/corpus/differential and upstream CI still pending.
